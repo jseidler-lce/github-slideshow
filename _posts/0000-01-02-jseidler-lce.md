@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Step right up to the circus that is my life
 Use the left arrow to go back!
